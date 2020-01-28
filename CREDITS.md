@@ -1,6 +1,6 @@
 ## Credits
 |Sounds|Sources|Link|
-|:-:|:-:||:-:|
+| --- | --- | --- |
 |Skating w/ puck|Fair Use|https://www.youtube.com/watch?v=5T60ZyxUo_M&list=OLAK5uy_lFcYkAYmW-9rpPRdLZR4x1YCRTrEnGpbQ&index=64|
 |Skating w/o puck|Fair Use|https://www.youtube.com/watch?v=dX6DXEO_5UU&list=OLAK5uy_lFcYkAYmW-9rpPRdLZR4x1YCRTrEnGpbQ&index=74|
 |Goal horn|CC-0|https://freesound.org/people/santino_c/sounds/170825/|
