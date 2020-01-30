@@ -8,3 +8,5 @@
 |Whistle|CC-BY-NC 3.0|https://freesound.org/people/patobottos/sounds/345800/|
 |Crowd ambiance|CC-0|https://freesound.org/people/bowlingballout/sounds/58596/|
 |Crowd aww|CC-BY 3.0|https://freesound.org/people/edbles/sounds/112259/|
+|Door Open|CC-0|https://freesound.org/people/amholma/sounds/344360/|
+|Puck hitting post and boards|Recorded by me|N/A|
