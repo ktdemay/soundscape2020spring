@@ -10,3 +10,8 @@
 |Crowd aww|CC-BY 3.0|https://freesound.org/people/edbles/sounds/112259/|
 |Door Open|CC-0|https://freesound.org/people/amholma/sounds/344360/|
 |Puck hitting post and boards|Recorded by me|N/A|
+|Coach's speach|Recorded by me|N/A|
+|Player 1 talking|Recorded by me|N/A|
+|Player 2 talking|Recorded by me|N/A|
+|Celebration|Recorded by me|N/A|
+|We Are The Champions|Fair Use|https://www.youtube.com/watch?v=04854XqcfCY|
