@@ -15,3 +15,4 @@
 |Player 2 talking|Recorded by me|N/A|
 |Celebration|Recorded by me|N/A|
 |We Are The Champions|Fair Use|https://www.youtube.com/watch?v=04854XqcfCY|
+|Coach walking|Recorded by me|N/A|
